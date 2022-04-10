@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rustums
 - 👀 I’m interested in programming lol 
-- 🌱 I’m currently learning rust c++ and others to see what i want to use
+- 🌱 I’m currently learning rust, c++, and others to see what i want to use
 - 📫 How to reach me rustydusty69420@gmail.com :)
 
 <!---
